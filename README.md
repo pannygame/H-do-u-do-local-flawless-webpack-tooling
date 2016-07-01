@@ -11,7 +11,7 @@ Building repo from TUTO!!
 We have npm init -y
 
 *just because*
-- we have dependencies, put that in here
+- we have dependencies, put that in here(package.json)
 - npm installs for our project folder
 - scripts in here to help us with the webpack, to run and build "the site"
 
