@@ -1,0 +1,16 @@
+{
+  "name": "ohMyDay6_0006",
+  "version": "0.0.0",
+  "description": "jambo jombo kombo kambo komba haha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "express": "~4.14.0",
+    "webpack-dev-server": "~1.14.1",
+    "webpack": "~1.13.1"
+  }
+}
